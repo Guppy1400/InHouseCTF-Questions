@@ -1,0 +1,3 @@
+Q: Who is G1003 according to Microsoft 
+A: Cadet Blizzard 
+Source: https://attack.mitre.org/groups/G1003/ & https://www.microsoft.com/en-us/security/security-insider/cadet-blizzard or https://learn.microsoft.com/en-us/unified-secops-platform/microsoft-threat-actor-naming 

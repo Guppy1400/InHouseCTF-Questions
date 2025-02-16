@@ -1,0 +1,4 @@
+Q: What scripting language did Windigo (G0124) use for information gathering 
+A: Perl
+Source: https://attack.mitre.org/groups/G0124/
+
