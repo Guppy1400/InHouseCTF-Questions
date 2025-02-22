@@ -6,5 +6,8 @@
 - 5 OSINT challenges
 
 ### To Do 
-- steganography
+-cryptography
+  - steganography
+  - ceaser cipher
+  - 
 - logs 
