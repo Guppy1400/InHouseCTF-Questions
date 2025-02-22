@@ -3,7 +3,7 @@
 
 - 5 Threat Intelligence questions
 - 3 different categories for password cracking & 3 different hashes
-- 4 OSINT questions
+- 5 OSINT challenges
 
 ### To Do 
 - steganography
