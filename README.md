@@ -3,4 +3,4 @@
 
 - 5 Threat Intelligence questions
 - 3 different categories for password cracking & 3 different hashes
-- 3 OSINT questions
+- 4 OSINT questions
