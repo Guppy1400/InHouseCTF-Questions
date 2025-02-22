@@ -1,0 +1,7 @@
+Website: news.yahoo.com
+Q1: whats the TLD
+A: com
+
+Q2: whats the subdomain 
+A: news
+
