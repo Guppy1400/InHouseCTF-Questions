@@ -1,0 +1,11 @@
+Q1: how many total requests are in the log
+A: 520
+
+Q2: what is the most requested path
+A: /dashboard
+
+Q3: how many requests returned a 404 Not Found status
+A: 192
+
+Q4: how many requests came from the IP 192.168.1.10
+A: 90
