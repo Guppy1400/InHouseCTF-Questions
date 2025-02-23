@@ -4,10 +4,11 @@
 - 5 Threat Intelligence questions
 - 3 different categories for password cracking & 3 different hashes
 - 5 OSINT challenges
+- 2 Log challanges
 
 ### To Do 
 - cryptography
   - steganography
   - ceaser cipher
   - 
-- logs 
+
