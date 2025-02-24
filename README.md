@@ -10,7 +10,7 @@
 - cryptography
   - steganography
   - ceaser cipher
-  - moorse code
+  - subsituiton
  
 - log
   - json
