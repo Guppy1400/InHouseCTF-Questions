@@ -13,5 +13,5 @@
   - moorse code
  
 - log
-  -json
+  - json
 
