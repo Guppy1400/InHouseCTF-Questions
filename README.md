@@ -11,4 +11,7 @@
   - steganography
   - ceaser cipher
   - moorse code
+ 
+- log
+  -json
 
