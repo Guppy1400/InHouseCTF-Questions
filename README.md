@@ -1,4 +1,4 @@
-# In House CTF Questions Spring 2025
+# In-House CTF Questions Spring 2025
 ### Questions for the SOC Spring 25 in House CTF
 
 - 5 Threat Intelligence questions
