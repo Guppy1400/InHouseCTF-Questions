@@ -16,5 +16,6 @@
   - JSON
  
 - Forensics
-  - binwalk
+  - basse64 locked zip
+  - 
 
