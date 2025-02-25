@@ -1,0 +1,3 @@
+Q: PLZ_ZQC{Qofzboxqlmp}
+A: SOC_CTF{Triceratops}
+
