@@ -14,4 +14,8 @@
  
 - log
   - JSON
+ 
+- Forensics
+  - strings
+  - binwalk
 
