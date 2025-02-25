@@ -5,7 +5,8 @@
 - 3 different categories for password cracking & 3 different hashes
 - 5 OSINT challenges
 - 2 Log challenges
-- 5 cryptography challanges 
+- 5 cryptography challenges
+- 2 forensics challenges
 
 ### To Do 
 - cryptography
