@@ -1,5 +1,5 @@
 # In-House CTF Questions Spring 2025
-### Questions for the SOC Spring 25 in House CTF
+### Questions for the SOC Spring 2025 in House CTF
 
 - 5 Threat Intelligence questions
 - 3 different categories for password cracking & 3 different hashes
