@@ -9,11 +9,9 @@
 - 4 forensics challenges
 
 ### To Do 
-- cryptography
-  - substitution
- 
 - log
-  - JSON
+  - JSON (JQ)
+  - Database Logs
  
 - Forensics
   - basse64 locked zip
