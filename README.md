@@ -10,7 +10,6 @@
 
 ### To Do 
 - cryptography
-  - steganography
   - substitution
  
 - log
