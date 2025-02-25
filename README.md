@@ -16,6 +16,5 @@
   - JSON
  
 - Forensics
-  - strings
   - binwalk
 
