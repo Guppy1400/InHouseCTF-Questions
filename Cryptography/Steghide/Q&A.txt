@@ -1,0 +1,2 @@
+Q: 
+A: SOC_CTF{Stegosaurus}
