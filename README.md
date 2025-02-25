@@ -6,7 +6,7 @@
 - 5 OSINT challenges
 - 2 Log challenges
 - 5 cryptography challenges
-- 2 forensics challenges
+- 4 forensics challenges
 
 ### To Do 
 - cryptography
