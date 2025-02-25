@@ -17,5 +17,5 @@
  
 - Forensics
   - basse64 locked zip
-  - 
+  - QR codes
 
