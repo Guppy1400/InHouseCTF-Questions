@@ -17,3 +17,5 @@
   - basse64 locked zip
   - QR codes
 
+- cryptography
+  - jefferson disk
