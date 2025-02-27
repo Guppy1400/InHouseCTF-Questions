@@ -13,3 +13,5 @@
   - basse64 locked zip
   - QR codes
   - yara
+ 
+- network analysis
