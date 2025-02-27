@@ -13,6 +13,3 @@
   - basse64 locked zip
   - QR codes
   - yara
-
-- cryptography
-  - jefferson disk
