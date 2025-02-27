@@ -4,14 +4,11 @@
 - 5 Threat Intelligence questions
 - 3 different categories for password cracking & 3 different hashes
 - 5 OSINT challenges
-- 3 Log challenges
+- 4 Log challenges
 - 5 cryptography challenges
 - 4 forensics challenges
 
 ### To Do 
-- log
-  - JSON (JQ)
- 
 - Forensics
   - basse64 locked zip
   - QR codes
