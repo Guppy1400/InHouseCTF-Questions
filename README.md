@@ -18,3 +18,4 @@
   - DNS log
  
 - network analysis
+-   arp
