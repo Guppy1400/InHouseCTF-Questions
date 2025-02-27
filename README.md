@@ -11,7 +11,6 @@
 ### To Do 
 - log
   - JSON (JQ)
-  - Database Logs
  
 - Forensics
   - basse64 locked zip
