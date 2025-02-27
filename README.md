@@ -14,4 +14,7 @@
   - QR codes
   - yara
  
+- logs
+  - DNS log
+ 
 - network analysis
