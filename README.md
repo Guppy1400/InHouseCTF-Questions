@@ -10,7 +10,7 @@
 
 ### To Do 
 - Forensics
-  - basse64 locked zip
+  - base64 locked zip
   - QR codes
   - yara
  
@@ -19,11 +19,11 @@
  
 - network analysis
   - arp
-  - Abused IP's
+  - Abused IPs
   
     
-- phising
-  - give multiple emails. ask which ones reak or which ones sus
+- phishing
+  - give multiple emails. ask which ones real or which ones sus
   - 
 
 - Threat hunting?
