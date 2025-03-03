@@ -19,11 +19,14 @@
  
 - network analysis
   - arp
+  - Abused IP's
+  
     
 - phising
   - give multiple emails. ask which ones reak or which ones sus
   - 
 
 - Threat hunting?
-- - Exploitable CVE Lookup
-- 
+  - Exploitable CVE Lookup
+  - Tracking Zero-Day Exploits
+    
