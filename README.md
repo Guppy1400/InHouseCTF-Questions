@@ -19,6 +19,11 @@
  
 - network analysis
   - arp
+    
 - phising
   - give multiple emails. ask which ones reak or which ones sus
   - 
+
+- Threat hunting?
+- -Exploitable CVE Lookup
+- 
