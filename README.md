@@ -7,6 +7,7 @@
 - 4 Log challenges
 - 5 cryptography challenges
 - 4 forensics challenges
+- 2 CVE challenges
 
 ### To Do 
 - Forensics
