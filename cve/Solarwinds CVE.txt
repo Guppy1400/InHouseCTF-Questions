@@ -1,0 +1,5 @@
+Q1: what was the product that was vulnerable in regards to CVE-2020-10148? 
+A: SolarWinds Orion API
+
+Q2: What is the CVSS 3.x score?
+A: 9.8 CRITICAL
