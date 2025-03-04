@@ -1,0 +1,53 @@
+C:\Users\CTF_Player>arp -a
+
+Interface: 192.168.1.10 --- 0xF
+  Internet Address      Physical Address   Type
+  192.168.1.45          C1:02:0A:0D:4B:4D  dynamic
+  192.168.1.67          12:27:A2:91:09:24  static
+  192.168.3.180         83:EC:E4:A3:C7:4E  dynamic
+  192.168.1.100         84:09:2D:27:C9:A7  dynamic
+  192.168.1.175         6A:29:56:96:E7:AD  dynamic
+  192.168.1.190         37:AA:8C:E0:BD:63  dynamic
+  192.168.3.25          DE:B1:DA:FD:B8:66  dynamic
+  192.168.2.101         D9:9C:92:AD:FB:B1  static
+  192.168.2.160         F7:09:F1:EB:42:96  dynamic
+  192.168.4.50          9B:6F:E7:6E:08:1C  dynamic
+  192.168.3.90          2A:7F:07:24:FD:7A  dynamic
+  192.168.255.255       FF-FF-FF-FF-FF-FF  static
+  224.0.0.22            01-00-5E-00-00-16  static
+  224.0.0.252           01-00-5E-00-00-FC  static
+  239.255.255.250       01-00-5E-7F-FF-FA  static
+
+Interface: 192.168.2.37 --- 0x14
+  Internet Address      Physical Address   Type
+  192.168.2.135         B4:C4:BE:75:7F:0A  dynamic
+  192.168.2.160         F7:09:F1:EB:42:96  dynamic
+  192.168.4.77          96:6B:98:1A:48:E4  static
+  192.168.3.110         67:82:B2:31:5C:E7  static
+  192.168.3.145         1C:59:0F:BE:D7:19  dynamic
+  192.168.4.95          12:E0:DB:BE:56:E8  dynamic
+  192.168.3.40          E6:05:C9:F4:36:64  dynamic
+  192.168.1.45          C1:02:0A:0D:4B:4D  dynamic
+  192.168.1.10          54:78:A9:DB:92:A6  dynamic
+  192.168.255.255       FF-FF-FF-FF-FF-FF  static
+  224.0.0.22            01-00-5E-00-00-16  static
+  224.0.0.252           01-00-5E-00-00-FC  static
+  239.255.255.250       01-00-5E-7F-FF-FA  static
+
+Interface: 192.168.4.77 --- 0x14
+  Internet Address      Physical Address   Type
+  192.168.3.110         67:82:B2:31:5C:E7  static
+  192.168.2.135         B4:C4:BE:75:7F:0A  dynamic
+  192.168.1.190         37:AA:8C:E0:BD:63  dynamic
+  192.168.2.37          66:1E:C9:C9:74:9C  static
+  192.168.2.15          0B:55:11:2B:1B:E2  static
+  192.168.3.75          1C:F0:98:74:02:21  dynamic
+  192.168.4.120         12:E0:DB:BE:56:E8  dynamic
+  192.168.4.200         1F:87:5E:2D:DE:39  dynamic
+  192.168.3.25          DE:B1:DA:FD:B8:66  dynamic
+  192.168.1.67          12:27:A2:91:09:24  static
+  192.168.255.255       FF-FF-FF-FF-FF-FF  static
+  224.0.0.22            01-00-5E-00-00-16  static
+  224.0.0.252           01-00-5E-00-00-FC  static
+  239.255.255.250       01-00-5E-7F-FF-FA  static
+
