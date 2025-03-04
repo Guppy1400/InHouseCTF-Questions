@@ -17,11 +17,7 @@
  
 - logs
   - DNS log
- 
-- network analysis
-  - arp
-  
-    
+     
 - phishing
   - give multiple emails. ask which ones real or which ones sus
 
