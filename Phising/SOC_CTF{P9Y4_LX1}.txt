@@ -1,0 +1,12 @@
+Subject: Help Ticket #12345 – Pending Closure
+From: Jane Doe jane.doe@1q3XslprTy.com
+To: John Smith john.smith@example.com
+
+Dear John,
+We haven’t heard back from you regarding your help ticket #12345. If the issue has been resolved, we will go ahead and close the ticket.
+If you still need assistance, please reply, and we’d be happy to help. Otherwise, no action is needed, and the ticket will close automatically in 24 hours.
+
+Best,
+Jane Doe
+IT Support Specialist
+1q3XslprTy Systems
