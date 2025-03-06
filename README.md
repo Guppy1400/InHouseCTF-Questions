@@ -11,7 +11,7 @@
 
 ### To Do 
 - Forensics
-  - base64 locked zip
+  - base64 locked zip - hidden file
   - QR codes
   - yara
  
