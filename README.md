@@ -15,10 +15,6 @@
   - QR codes
   - yara
 
-     
-- Threat hunting?
-  - Tracking Zero-Day Exploits
-
 ### Verify 
 - Cryptography
 - DNS Log
