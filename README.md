@@ -4,9 +4,9 @@
 - 5 Threat Intelligence questions
 - 3 different categories for password cracking & 3 different hashes
 - 5 OSINT challenges
-- 4 Log challenges
-- 5 cryptography challenges
-- 4 forensics challenges
+- 6 Log challenges
+- 4 cryptography challenges
+- 5 forensics challenges
 - 2 CVE challenges
 
 ### To Do 
@@ -15,9 +15,6 @@
   - QR codes
   - yara
 
- - logs
-   - DNS
-  
      
 - Threat hunting?
   - Tracking Zero-Day Exploits
