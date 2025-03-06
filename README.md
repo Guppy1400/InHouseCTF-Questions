@@ -20,4 +20,15 @@
   - Tracking Zero-Day Exploits
 
 ### Verify 
-- 
+- Cryptography
+- DNS Log
+- Forensics
+- Logs
+- OSINT
+- Password_Cracking
+- Phising
+- Threat_Intelligence
+- cve
+
+###Done
+-
