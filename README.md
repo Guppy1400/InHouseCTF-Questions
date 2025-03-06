@@ -14,7 +14,11 @@
   - base64 locked zip - hidden file
   - QR codes
   - yara
- 
+
+ - logs
+   - DNS
+  
+     
 - Threat hunting?
   - Tracking Zero-Day Exploits
     
