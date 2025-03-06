@@ -1,0 +1,5 @@
+Q1: Whats the flag 
+A: SOC_CTF{CyberChef} 
+
+Q2: Whats the password to unlock the file 
+A: Base64
