@@ -15,12 +15,6 @@
   - QR codes
   - yara
  
-- logs
-  - DNS log
-     
-- phishing
-  - give multiple emails. ask which ones real or which ones sus
-
 - Threat hunting?
   - Tracking Zero-Day Exploits
     
