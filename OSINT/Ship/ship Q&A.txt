@@ -1,5 +1,5 @@
 Q1: name of the ship
-A: Brig Pilgrim
+A: Pilgrim
 
 Q2: when did the ship sink 
 A: March 29, 2020
