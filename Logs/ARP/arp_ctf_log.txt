@@ -35,7 +35,7 @@ Internet Address      Physical Address        Type
 192.168.1.165        1B:2C:3D:4E:5F:6A       dynamic
 192.168.1.170        2C:3D:4E:5F:6A:7B       dynamic
 192.168.1.175        3D:4E:5F:6A:7B:8C       static
-192.168.1.180        4E:5F:6A:7B:8C:9D       dynamic
+192.168.1.180        1A:2B:3C:4D:5E:6F       dynamic
 192.168.1.185        5F:6A:7B:8C:9D:AE       dynamic
 192.168.1.190        6A:7B:8C:9D:AE:BF       dynamic
 192.168.1.195        7B:8C:9D:AE:BF:CF       static
