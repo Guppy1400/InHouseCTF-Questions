@@ -1,17 +1,18 @@
 Q1: How many spoofed MAC addresses are there 
-A: 12
+A: 2
+Source: 98:E2:55 (2) & E0:BF:B2 (3)
 
 Q2: Which spoofed MAC address occurred the most
-A: 01-00-5E-00-00-16
+A: E0:BF:B2
 
 Q3: How many ARP entries are there? 
-A: 42
+A: 49
 
 Q4: How many unique MAC addresses are present in the log
-A: 26
+A: 47
 
-Q5: What IP address is associated with the MAC address C1:02:0A:0D:4B:4D
-A: 192.168.1.45
+Q5: What IP address is associated with the MAC address 60:A3:E3
+A: 192.168.1.238
 
 Q6: How many static IP addresses are there?
-A: 20
+A: 24
