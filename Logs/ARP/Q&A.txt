@@ -9,10 +9,13 @@ Q3: How many ARP entries are there?
 A: 49
 
 Q4: How many unique MAC addresses are present in the log
-A: 47
+A: 46
 
 Q5: What IP address is associated with the MAC address 60:A3:E3
 A: 192.168.1.238
 
 Q6: How many static IP addresses are there?
 A: 24
+
+Q7: What vendor is associated with B8:45:EB
+A: Apple, Inc
