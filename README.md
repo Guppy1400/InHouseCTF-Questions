@@ -15,9 +15,9 @@
   - yara
 
 ### Verify 
-- Cryptography
+- ~~Cryptography~~
 - DNS Log
-- Forensics
+- ~~Forensics~~
 - Logs
 - OSINT
 - Password_Cracking
@@ -27,3 +27,4 @@
 
 ### Done
 - Cryptography
+- Forensics
