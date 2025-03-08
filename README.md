@@ -22,7 +22,7 @@
 - ~~OSINT~~
 - Password_Cracking
 - Phising
-- Threat_Intelligence
+- ~~Threat_Intelligence~~
 - cve
 
 ### Done
