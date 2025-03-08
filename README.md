@@ -16,7 +16,6 @@
 
 ### Verify 
 - ~~Cryptography~~
-- DNS Log
 - ~~Forensics~~
 - Logs
 - ~~OSINT~~
