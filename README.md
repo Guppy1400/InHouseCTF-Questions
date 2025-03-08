@@ -21,7 +21,7 @@
 - Logs
 - ~~OSINT~~
 - Password_Cracking
-- Phising
+- Phishing
 - ~~Threat_Intelligence~~
 - cve
 
