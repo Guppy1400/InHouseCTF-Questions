@@ -1,7 +1,7 @@
 Free Wifi questions 
 Prompt: We found a bus ticket for the attack taking the UTA Bus route 850. We believe they got off at State St / 1700 S (NB) (Stop ID: 817265)
-Q: What's the restaurant or cafe name
+Q1: What's the restaurant or cafe name
 A: Cream & Sugar
 
-Q: What's the wifi password
+Q2: What's the wifi password
 A: CoffeeRules2022
