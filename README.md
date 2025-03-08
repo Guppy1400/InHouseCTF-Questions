@@ -19,7 +19,7 @@
 - DNS Log
 - ~~Forensics~~
 - Logs
-- OSINT
+- ~~OSINT~~
 - Password_Cracking
 - Phising
 - Threat_Intelligence
@@ -28,3 +28,4 @@
 ### Done
 - Cryptography
 - Forensics
+- OSINT
