@@ -24,8 +24,3 @@
 - Phishing
 - ~~Threat_Intelligence~~
 - cve
-
-### Done
-- Cryptography
-- Forensics
-- OSINT
