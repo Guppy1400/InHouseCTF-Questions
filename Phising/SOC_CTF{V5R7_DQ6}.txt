@@ -3,7 +3,7 @@ From: Jane Doe jane.doe@lq3Xs1prTy.com
 To: John Smith john.smith@example.com
 
 Dear John,
-I’m reviewing your help ticket #12345, and Id appreciate some  details to assist you more effectively. Could you provide any error messages, steps you’ve tried so far, and whether this issue is affecting multiple devices on the form at lq3Xs1prTy.help.com?
+I’m reviewing your help ticket #12345, and Id appreciate some  details to assist you more effectively. Could you provide any error messages, steps you’ve tried so far, and whether this issue is affecting multiple devices on the form at lq3Xs1prTy.help.com/12345?
 I cannot work on a solution for you until the form is submitted. Looking forward to your response!
 
 Best,
