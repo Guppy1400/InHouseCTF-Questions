@@ -1,0 +1,1 @@
+1. https://gchq.github.io/CyberChef/#recipe=From_Hex('Space')From_Morse_Code('Space','Line%20feed')&input=MmQgMmUgMmQgMmUgMjAgMmUgMmQgMmUgMjAgMmQgMmUgMmQgMmQgMjAgMmUgMmQgMmQgMmUgMjAgMmQgMjAgMmQgMmQgMmQgMjAgMmQgMmQgMmUgMjAgMmUgMmQgMmUgMjAgMmUgMmQgMjAgMmUgMmQgMmQgMmUgMjAgMmUgMmUgMmUgMmUgMjAgMmQgMmUgMmQgMmQ 
