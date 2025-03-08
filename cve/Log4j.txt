@@ -1,7 +1,5 @@
 Q1: what is the CVE for Log4j2 (Log4Shell)
 A: CVE-2021-44228
 
-Q2: what is the recommended patched version of Log4j to fix Log4Shell?
-A: 2.15.0
-
-Q3: 
+Q2: What version of Log4j fully removed the function 
+A: 2.16.0
