@@ -22,4 +22,4 @@
 - Password_Cracking
 - Phishing
 - ~~Threat_Intelligence~~
-- cve
+- ~~cve~~
