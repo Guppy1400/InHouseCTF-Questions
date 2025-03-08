@@ -8,7 +8,8 @@
 - 4 cryptography challenges
 - 5 forensics challenges
 - 2 CVE challenges
-Total:
+  
+Total: 111 individual questions 
 
 ### To Do 
 - Forensics
