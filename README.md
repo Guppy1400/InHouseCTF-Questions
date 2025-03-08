@@ -20,6 +20,6 @@
 - Logs
 - ~~OSINT~~
 - Password_Cracking
-- Phishing
+- ~~Phishing~~
 - ~~Threat_Intelligence~~
 - ~~cve~~
