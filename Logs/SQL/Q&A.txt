@@ -1,8 +1,8 @@
-Q1:Who executed the SQL injection attack
-A: bob | 192.168.1.10
+Q1: Who executed the SQL injection attack
+A: bob
 
-Q2: What data was stolen as a result of the attack
-A: Usernames and passwords from the users table
+Q2: What data was stolen as a result of the attack (enter values separated with a comma and no space)
+A: usernames,passwords
 
 Q3: What was the SQL injection
 A: OR 1=1
