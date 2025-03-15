@@ -1,11 +1,12 @@
-Q1: How many times a specific domain was queried
-A: 
+Q1: How many times was secure-bank.com queried
+A: 8
 
-Q2: How many of a specific DNS record type appear
-A:
+Q2: How many MX DNS record types appear
+A: 12 
 
 Q3: Which DNS record type was used the most
-A:
+A: CNAME 
+Source: 27 times
  
 Q4: What record type was used for domain redirection
-A: 
+A: CNAME
