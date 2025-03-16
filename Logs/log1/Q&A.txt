@@ -1,8 +1,0 @@
-Q1: What tool caused the suspicious activity
-A: nmap
-
-Q2: what user used the suspicious tool
-A: alice
-
-Q3: What is the Ip address of the user involved in the suspicious activity 
-A: 203.0.113.90
