@@ -8,11 +8,11 @@ Source: cnoland
 Q3: Did the malicious user successfully execute any requests 
 A: No
 
-Q4: How many successful commands did iwilson execute
-A: 
+Q4: How many successful commands did bthompson execute
+A: 8
 
 Q5: How many unique users appear in the log file?
-A: 
+A: 14
 
 Q6: How many total log entries are in the JSON file?
-A:
+A: 119
