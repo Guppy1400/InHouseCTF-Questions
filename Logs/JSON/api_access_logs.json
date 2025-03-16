@@ -1,0 +1,1073 @@
+[
+    {
+        "timestamp": "2025-02-26T10:00:00",
+        "user": "bthompson",
+        "ip": "192.168.1.51",
+        "endpoint": "/api/orders/history",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:00:37",
+        "user": "fhernandez",
+        "ip": "192.168.1.141",
+        "endpoint": "/admin/users/manage",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:01:30",
+        "user": "fhernandez",
+        "ip": "192.168.1.55",
+        "endpoint": "/api/helpdesk/ticket",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:02:00",
+        "user": "asmith",
+        "ip": "192.168.1.169",
+        "endpoint": "/api/user/notifications",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:02:12",
+        "user": "fhernandez",
+        "ip": "192.168.1.182",
+        "endpoint": "/admin/settings/update",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:02:24",
+        "user": "cmiller",
+        "ip": "192.168.1.109",
+        "endpoint": "/admin/dashboard",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:04:08",
+        "user": "gmartinez",
+        "ip": "192.168.1.106",
+        "endpoint": "/api/cart/checkout",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:05:18",
+        "user": "sysadmin",
+        "ip": "192.168.1.154",
+        "endpoint": "/api/products/list",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:06:00",
+        "user": "gmartinez",
+        "ip": "192.168.1.18",
+        "endpoint": "/api/orders/history",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:06:09",
+        "user": "cmiller",
+        "ip": "192.168.1.130",
+        "endpoint": "/api/helpdesk/ticket",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:06:39",
+        "user": "it_support",
+        "ip": "192.168.1.92",
+        "endpoint": "/api/user/notifications",
+        "method": "POST",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:06:48",
+        "user": "jdoe",
+        "ip": "192.168.1.129",
+        "endpoint": "/api/user/settings",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:08:10",
+        "user": "fhernandez",
+        "ip": "192.168.1.109",
+        "endpoint": "/api/user/profile",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:08:24",
+        "user": "gmartinez",
+        "ip": "192.168.1.101",
+        "endpoint": "/admin/users/manage",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:08:48",
+        "user": "bthompson",
+        "ip": "192.168.1.42",
+        "endpoint": "/api/user/profile",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:10:12",
+        "user": "iwilson",
+        "ip": "192.168.1.250",
+        "endpoint": "/admin/users/manage",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:10:40",
+        "user": "cmiller",
+        "ip": "192.168.1.25",
+        "endpoint": "/admin/settings/update",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:11:54",
+        "user": "eevans",
+        "ip": "192.168.1.188",
+        "endpoint": "/api/helpdesk/ticket",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:12:00",
+        "user": "cnoland",
+        "ip": "192.168.1.98",
+        "endpoint": "/admin/configuration",
+        "method": "DELETE",
+        "status": 403,
+        "message": "Access restricted. Permission denied."
+    },
+    {
+        "timestamp": "2025-02-26T10:12:06",
+        "user": "cmiller",
+        "ip": "192.168.1.120",
+        "endpoint": "/api/user/notifications",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:12:08",
+        "user": "it_support",
+        "ip": "192.168.1.158",
+        "endpoint": "/api/auth/login",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:12:39",
+        "user": "hlee",
+        "ip": "192.168.1.111",
+        "endpoint": "/admin/users/manage",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:13:34",
+        "user": "iwilson",
+        "ip": "192.168.1.162",
+        "endpoint": "/api/products/list",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:14:15",
+        "user": "jdoe",
+        "ip": "192.168.1.23",
+        "endpoint": "/api/helpdesk/ticket",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:14:40",
+        "user": "service_account",
+        "ip": "192.168.1.54",
+        "endpoint": "/api/auth/login",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:15:00",
+        "user": "cnoland",
+        "ip": "192.168.1.105",
+        "endpoint": "/admin/security/audit",
+        "method": "PUT",
+        "status": 403,
+        "message": "Access restricted. Permission denied."
+    },
+    {
+        "timestamp": "2025-02-26T10:15:20",
+        "user": "it_support",
+        "ip": "192.168.1.123",
+        "endpoint": "/api/cart/checkout",
+        "method": "POST",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:15:36",
+        "user": "sysadmin",
+        "ip": "192.168.1.121",
+        "endpoint": "/api/products/list",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:16:06",
+        "user": "eevans",
+        "ip": "192.168.1.98",
+        "endpoint": "/admin/logs/view",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:16:09",
+        "user": "gmartinez",
+        "ip": "192.168.1.72",
+        "endpoint": "/api/cart/checkout",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:16:12",
+        "user": "fhernandez",
+        "ip": "192.168.1.137",
+        "endpoint": "/admin/users/manage",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:17:44",
+        "user": "sysadmin",
+        "ip": "192.168.1.150",
+        "endpoint": "/api/orders/history",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:18:45",
+        "user": "sysadmin",
+        "ip": "192.168.1.16",
+        "endpoint": "/api/user/settings",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:18:54",
+        "user": "gmartinez",
+        "ip": "192.168.1.82",
+        "endpoint": "/admin/settings/update",
+        "method": "POST",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:19:00",
+        "user": "cnoland",
+        "ip": "192.168.1.65",
+        "endpoint": "/api/auth/login",
+        "method": "POST",
+        "status": 401,
+        "message": "Unauthorized request. Authentication required."
+    },
+    {
+        "timestamp": "2025-02-26T10:19:08",
+        "user": "asmith",
+        "ip": "192.168.1.199",
+        "endpoint": "/admin/users/manage",
+        "method": "POST",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:19:36",
+        "user": "sysadmin",
+        "ip": "192.168.1.112",
+        "endpoint": "/api/products/list",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:20:09",
+        "user": "cmiller",
+        "ip": "192.168.1.48",
+        "endpoint": "/api/helpdesk/ticket",
+        "method": "POST",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:20:18",
+        "user": "sysadmin",
+        "ip": "192.168.1.50",
+        "endpoint": "/admin/dashboard",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:20:32",
+        "user": "sysadmin",
+        "ip": "192.168.1.203",
+        "endpoint": "/admin/settings/update",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:22:52",
+        "user": "fhernandez",
+        "ip": "192.168.1.180",
+        "endpoint": "/admin/logs/view",
+        "method": "POST",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:23:30",
+        "user": "iwilson",
+        "ip": "192.168.1.33",
+        "endpoint": "/api/auth/logout",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:24:30",
+        "user": "jdoe",
+        "ip": "192.168.1.86",
+        "endpoint": "/api/user/profile",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:24:42",
+        "user": "service_account",
+        "ip": "192.168.1.202",
+        "endpoint": "/api/helpdesk/ticket",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:25:37",
+        "user": "gmartinez",
+        "ip": "192.168.1.44",
+        "endpoint": "/api/auth/logout",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:25:50",
+        "user": "it_support",
+        "ip": "192.168.1.244",
+        "endpoint": "/admin/dashboard",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:25:54",
+        "user": "hlee",
+        "ip": "192.168.1.88",
+        "endpoint": "/api/helpdesk/ticket",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:26:20",
+        "user": "it_support",
+        "ip": "192.168.1.94",
+        "endpoint": "/api/auth/logout",
+        "method": "POST",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:27:13",
+        "user": "iwilson",
+        "ip": "192.168.1.121",
+        "endpoint": "/admin/dashboard",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:27:20",
+        "user": "gmartinez",
+        "ip": "192.168.1.51",
+        "endpoint": "/api/auth/logout",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:27:23",
+        "user": "gmartinez",
+        "ip": "192.168.1.64",
+        "endpoint": "/admin/settings/update",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:28:36",
+        "user": "it_support",
+        "ip": "192.168.1.39",
+        "endpoint": "/api/user/notifications",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:28:56",
+        "user": "asmith",
+        "ip": "192.168.1.142",
+        "endpoint": "/api/user/notifications",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:28:56",
+        "user": "service_account",
+        "ip": "192.168.1.142",
+        "endpoint": "/api/orders/history",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:30:00",
+        "user": "cnoland",
+        "ip": "192.168.1.165",
+        "endpoint": "/admin/configuration",
+        "method": "POST",
+        "status": 403,
+        "message": "Access restricted. Permission denied."
+    },
+    {
+        "timestamp": "2025-02-26T10:30:20",
+        "user": "fhernandez",
+        "ip": "192.168.1.214",
+        "endpoint": "/admin/dashboard",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:30:50",
+        "user": "cmiller",
+        "ip": "192.168.1.187",
+        "endpoint": "/admin/users/manage",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:31:00",
+        "user": "bthompson",
+        "ip": "192.168.1.162",
+        "endpoint": "/api/auth/login",
+        "method": "PUT",
+        "status": 401,
+        "message": "Unauthorized request. Authentication required."
+    },
+    {
+        "timestamp": "2025-02-26T10:31:00",
+        "user": "cnoland",
+        "ip": "192.168.1.54",
+        "endpoint": "/admin/configuration",
+        "method": "DELETE",
+        "status": 403,
+        "message": "Access restricted. Permission denied."
+    },
+    {
+        "timestamp": "2025-02-26T10:32:00",
+        "user": "iwilson",
+        "ip": "192.168.1.125",
+        "endpoint": "/api/orders/history",
+        "method": "POST",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:33:00",
+        "user": "drogers",
+        "ip": "192.168.1.44",
+        "endpoint": "/api/user/settings",
+        "method": "POST",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:34:32",
+        "user": "bthompson",
+        "ip": "192.168.1.78",
+        "endpoint": "/admin/logs/view",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:35:12",
+        "user": "drogers",
+        "ip": "192.168.1.84",
+        "endpoint": "/api/user/profile",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:35:25",
+        "user": "cmiller",
+        "ip": "192.168.1.120",
+        "endpoint": "/admin/logs/view",
+        "method": "POST",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:36:33",
+        "user": "sysadmin",
+        "ip": "192.168.1.183",
+        "endpoint": "/api/auth/login",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:37:37",
+        "user": "jdoe",
+        "ip": "192.168.1.49",
+        "endpoint": "/api/user/notifications",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:37:42",
+        "user": "bthompson",
+        "ip": "192.168.1.217",
+        "endpoint": "/admin/dashboard",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:38:21",
+        "user": "iwilson",
+        "ip": "192.168.1.230",
+        "endpoint": "/admin/settings/update",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:38:30",
+        "user": "service_account",
+        "ip": "192.168.1.71",
+        "endpoint": "/api/products/list",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:39:10",
+        "user": "asmith",
+        "ip": "192.168.1.115",
+        "endpoint": "/admin/logs/view",
+        "method": "POST",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:39:12",
+        "user": "sysadmin",
+        "ip": "192.168.1.54",
+        "endpoint": "/api/user/notifications",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:39:45",
+        "user": "cmiller",
+        "ip": "192.168.1.55",
+        "endpoint": "/api/user/profile",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:39:54",
+        "user": "service_account",
+        "ip": "192.168.1.131",
+        "endpoint": "/admin/dashboard",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:39:57",
+        "user": "gmartinez",
+        "ip": "192.168.1.179",
+        "endpoint": "/admin/users/manage",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:40:00",
+        "user": "cnoland",
+        "ip": "192.168.1.166",
+        "endpoint": "/api/auth/login",
+        "method": "POST",
+        "status": 401,
+        "message": "Unauthorized request. Authentication required."
+    },
+    {
+        "timestamp": "2025-02-26T10:40:03",
+        "user": "service_account",
+        "ip": "192.168.1.55",
+        "endpoint": "/api/user/notifications",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:40:32",
+        "user": "fhernandez",
+        "ip": "192.168.1.248",
+        "endpoint": "/admin/users/manage",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:40:48",
+        "user": "iwilson",
+        "ip": "192.168.1.44",
+        "endpoint": "/api/auth/logout",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:41:39",
+        "user": "hlee",
+        "ip": "192.168.1.232",
+        "endpoint": "/api/user/notifications",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:43:12",
+        "user": "it_support",
+        "ip": "192.168.1.210",
+        "endpoint": "/api/auth/logout",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:43:33",
+        "user": "asmith",
+        "ip": "192.168.1.86",
+        "endpoint": "/admin/dashboard",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:44:48",
+        "user": "cmiller",
+        "ip": "192.168.1.105",
+        "endpoint": "/api/auth/login",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:44:57",
+        "user": "gmartinez",
+        "ip": "192.168.1.169",
+        "endpoint": "/admin/logs/view",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:45:56",
+        "user": "asmith",
+        "ip": "192.168.1.49",
+        "endpoint": "/api/products/list",
+        "method": "POST",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:46:00",
+        "user": "cnoland",
+        "ip": "192.168.1.139",
+        "endpoint": "/admin/configuration",
+        "method": "POST",
+        "status": 403,
+        "message": "Access restricted. Permission denied."
+    },
+    {
+        "timestamp": "2025-02-26T10:46:15",
+        "user": "bthompson",
+        "ip": "192.168.1.45",
+        "endpoint": "/api/auth/logout",
+        "method": "POST",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:48:03",
+        "user": "drogers",
+        "ip": "192.168.1.163",
+        "endpoint": "/api/auth/logout",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:49:20",
+        "user": "bthompson",
+        "ip": "192.168.1.34",
+        "endpoint": "/api/products/list",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:49:50",
+        "user": "asmith",
+        "ip": "192.168.1.56",
+        "endpoint": "/api/helpdesk/ticket",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:50:30",
+        "user": "service_account",
+        "ip": "192.168.1.153",
+        "endpoint": "/api/auth/login",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:51:45",
+        "user": "drogers",
+        "ip": "192.168.1.233",
+        "endpoint": "/admin/users/manage",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:54:28",
+        "user": "sysadmin",
+        "ip": "192.168.1.99",
+        "endpoint": "/api/user/profile",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:55:30",
+        "user": "hlee",
+        "ip": "192.168.1.161",
+        "endpoint": "/admin/users/manage",
+        "method": "POST",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:56:00",
+        "user": "asmith",
+        "ip": "192.168.1.191",
+        "endpoint": "/api/products/list",
+        "method": "POST",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:57:45",
+        "user": "jdoe",
+        "ip": "192.168.1.69",
+        "endpoint": "/api/cart/checkout",
+        "method": "POST",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T10:58:35",
+        "user": "fhernandez",
+        "ip": "192.168.1.57",
+        "endpoint": "/admin/logs/view",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T11:02:15",
+        "user": "it_support",
+        "ip": "192.168.1.118",
+        "endpoint": "/api/helpdesk/ticket",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T11:02:53",
+        "user": "gmartinez",
+        "ip": "192.168.1.61",
+        "endpoint": "/api/user/profile",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T11:03:00",
+        "user": "cmiller",
+        "ip": "192.168.1.37",
+        "endpoint": "/admin/logs/view",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T11:03:36",
+        "user": "sysadmin",
+        "ip": "192.168.1.202",
+        "endpoint": "/api/products/list",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T11:04:10",
+        "user": "iwilson",
+        "ip": "192.168.1.187",
+        "endpoint": "/api/user/profile",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T11:06:57",
+        "user": "service_account",
+        "ip": "192.168.1.225",
+        "endpoint": "/admin/users/manage",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T11:07:54",
+        "user": "bthompson",
+        "ip": "192.168.1.114",
+        "endpoint": "/api/helpdesk/ticket",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T11:08:00",
+        "user": "cmiller",
+        "ip": "192.168.1.173",
+        "endpoint": "/admin/settings/update",
+        "method": "POST",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T11:09:46",
+        "user": "eevans",
+        "ip": "192.168.1.82",
+        "endpoint": "/admin/settings/update",
+        "method": "POST",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T11:10:34",
+        "user": "eevans",
+        "ip": "192.168.1.140",
+        "endpoint": "/admin/logs/view",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T11:11:40",
+        "user": "it_support",
+        "ip": "192.168.1.23",
+        "endpoint": "/api/auth/logout",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T11:12:40",
+        "user": "gmartinez",
+        "ip": "192.168.1.189",
+        "endpoint": "/api/auth/logout",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T11:13:48",
+        "user": "it_support",
+        "ip": "192.168.1.173",
+        "endpoint": "/api/auth/login",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T11:14:15",
+        "user": "iwilson",
+        "ip": "192.168.1.143",
+        "endpoint": "/api/cart/checkout",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T11:16:42",
+        "user": "it_support",
+        "ip": "192.168.1.137",
+        "endpoint": "/api/user/settings",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T11:18:50",
+        "user": "fhernandez",
+        "ip": "192.168.1.97",
+        "endpoint": "/api/products/list",
+        "method": "DELETE",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T11:20:15",
+        "user": "cmiller",
+        "ip": "192.168.1.193",
+        "endpoint": "/admin/dashboard",
+        "method": "POST",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T11:20:40",
+        "user": "asmith",
+        "ip": "192.168.1.170",
+        "endpoint": "/api/user/notifications",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T11:27:00",
+        "user": "jdoe",
+        "ip": "192.168.1.61",
+        "endpoint": "/api/products/list",
+        "method": "POST",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T11:32:00",
+        "user": "fhernandez",
+        "ip": "192.168.1.248",
+        "endpoint": "/admin/settings/update",
+        "method": "PUT",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T11:37:10",
+        "user": "cmiller",
+        "ip": "192.168.1.80",
+        "endpoint": "/admin/users/manage",
+        "method": "POST",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T11:38:00",
+        "user": "bthompson",
+        "ip": "192.168.1.45",
+        "endpoint": "/api/orders/history",
+        "method": "GET",
+        "status": 200,
+        "message": "Request successful."
+    },
+    {
+        "timestamp": "2025-02-26T11:44:00",
+        "user": "cmiller",
+        "ip": "192.168.1.30",
+        "endpoint": "/admin/users/manage",
+        "method": "POST",
+        "status": 200,
+        "message": "Request successful."
+    }
+]
