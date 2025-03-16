@@ -1,18 +1,18 @@
-Q1: Who attempted the unauthorized access?
-A: attackerBOT9000
+Q1: Which user triggered forbidden responses
+A: cnoland
 
-Q2: What endpoint was accessed without authorization?
-A: /admin/secret
+Q2: When did the malicious user first appear in the logs? (Provide the timestamp)
+A: 2025-02-26T10:12:00
+Source: cnoland
 
-Q3: How many commands did attackerBOT9000 use?
-A: 8
+Q3: Did the malicious user successfully execute any requests 
+A: No
 
-Q4: How many successful commands did attackerBOT9000 execute?
-A: 3
-
-Q5: How many total log entries (objects) are in the JSON file?
+Q4: How many successful commands did iwilson execute
 A: 
 
-Q6: How many unique users made requests?
+Q5: How many unique users appear in the log file?
 A: 
 
+Q6: How many total log entries are in the JSON file?
+A:
