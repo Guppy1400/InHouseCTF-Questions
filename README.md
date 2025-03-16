@@ -11,15 +11,10 @@
   
 Total: 111 individual questions 
 
-### To Do 
-- Forensics
-  - QR codes
-  - yara
-
 ### Verify 
 - ~~Cryptography~~
 - ~~Forensics~~
-- Logs
+- ~~Logs~~
 - ~~OSINT~~
 - Password_Cracking
 - ~~Phishing~~
