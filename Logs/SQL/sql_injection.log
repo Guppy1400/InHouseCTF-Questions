@@ -1,0 +1,50 @@
+2025-02-26 10:00:25 [INFO] User: johndoe, IP: 192.168.1.12, Query: SELECT * FROM users WHERE username='johndoe' AND password='password123'
+2025-02-26 10:03:37 [INFO] User: johndoe, IP: 192.168.1.7, Query: SELECT * FROM users WHERE username='johndoe' AND password='password123'
+2025-02-26 10:01:40 [INFO] User: alice, IP: 192.168.1.7, Query: SELECT * FROM customers WHERE city='clothing'
+2025-02-26 10:00:21 [INFO] User: bob, IP: 192.168.1.12, Query: INSERT INTO logs (event, user) VALUES ('login', 'delivered')
+2025-02-26 10:02:59 [INFO] User: admin, IP: 192.168.1.5, Query: SELECT * FROM users WHERE username='admin' AND password='password123'
+2025-02-26 10:03:56 [INFO] User: alice, IP: 192.168.1.5, Query: SELECT * FROM users WHERE username='alice' AND password='password123'
+2025-02-26 10:02:20 [INFO] User: johndoe, IP: 192.168.1.5, Query: INSERT INTO logs (event, user) VALUES ('login', 'New York')
+2025-02-26 10:01:54 [INFO] User: admin, IP: 192.168.1.10, Query: SELECT * FROM customers WHERE city='canceled'
+2025-02-26 10:04:37 [INFO] User: alice, IP: 192.168.1.10, Query: INSERT INTO logs (event, user) VALUES ('login', 'Houston')
+2025-02-26 10:02:40 [INFO] User: bob, IP: 192.168.1.5, Query: SELECT * FROM orders WHERE status='Los Angeles'
+2025-02-26 10:01:10 [INFO] User: johndoe, IP: 192.168.1.10, Query: SELECT * FROM users WHERE username='johndoe' AND password='password123'
+2025-02-26 10:00:12 [INFO] User: alice, IP: 192.168.1.7, Query: SELECT * FROM orders WHERE status='Los Angeles'
+2025-02-26 10:03:18 [INFO] User: bob, IP: 192.168.1.10, Query: SELECT * FROM customers WHERE city='Chicago'
+2025-02-26 10:02:38 [INFO] User: alice, IP: 192.168.1.12, Query: SELECT * FROM users WHERE username='alice' AND password='password123'
+2025-02-26 10:01:48 [INFO] User: admin, IP: 192.168.1.5, Query: SELECT * FROM orders WHERE status='electronics'
+2025-02-26 10:03:40 [INFO] User: admin, IP: 192.168.1.10, Query: SELECT * FROM customers WHERE city='toys'
+2025-02-26 10:02:42 [INFO] User: johndoe, IP: 192.168.1.5, Query: SELECT * FROM users WHERE username='johndoe' AND password='password123'
+2025-02-26 10:04:29 [INFO] User: admin, IP: 192.168.1.7, Query: SELECT * FROM customers WHERE city='clothing'
+2025-02-26 10:04:53 [INFO] User: bob, IP: 192.168.1.5, Query: SELECT * FROM products WHERE category='canceled'
+2025-02-26 10:02:16 [INFO] User: alice, IP: 192.168.1.5, Query: SELECT * FROM users WHERE username='alice' AND password='password123'
+2025-02-26 10:01:10 [INFO] User: bob, IP: 192.168.1.5, Query: SELECT * FROM customers WHERE city='clothing'
+2025-02-26 10:04:59 [INFO] User: admin, IP: 192.168.1.7, Query: INSERT INTO logs (event, user) VALUES ('login', 'shipped')
+2025-02-26 10:04:25 [INFO] User: alice, IP: 192.168.1.12, Query: SELECT * FROM orders WHERE status='New York'
+2025-02-26 10:02:36 [INFO] User: alice, IP: 192.168.1.12, Query: SELECT * FROM products WHERE category='canceled'
+2025-02-26 10:03:35 [INFO] User: alice, IP: 192.168.1.10, Query: SELECT * FROM orders WHERE status='Houston'
+2025-02-26 10:04:23 [INFO] User: alice, IP: 192.168.1.5, Query: SELECT * FROM orders WHERE status='shipped'
+2025-02-26 10:02:13 [INFO] User: bob, IP: 192.168.1.5, Query: INSERT INTO logs (event, user) VALUES ('login', 'Houston')
+2025-02-26 10:03:44 [INFO] User: bob, IP: 192.168.1.12, Query: SELECT * FROM products WHERE category='clothing'
+2025-02-26 10:04:34 [INFO] User: johndoe, IP: 192.168.1.12, Query: SELECT * FROM orders WHERE status='Chicago'
+2025-02-26 10:01:55 [INFO] User: bob, IP: 192.168.1.5, Query: INSERT INTO logs (event, user) VALUES ('login', 'pending')
+2025-02-26 10:01:58 [INFO] User: bob, IP: 192.168.1.10, Query: SELECT username, password FROM users WHERE UserId = 105 OR 1=1;
+2025-02-26 10:01:58 [INFO] User: bob, IP: 192.168.1.7, Query: SELECT * FROM customers WHERE city='Houston'
+2025-02-26 10:04:18 [INFO] User: admin, IP: 192.168.1.5, Query: INSERT INTO logs (event, user) VALUES ('login', 'electronics')
+2025-02-26 10:02:24 [INFO] User: alice, IP: 192.168.1.5, Query: SELECT * FROM orders WHERE status='pending'
+2025-02-26 10:00:52 [INFO] User: alice, IP: 192.168.1.5, Query: INSERT INTO logs (event, user) VALUES ('login', 'toys')
+2025-02-26 10:01:58 [INFO] User: admin, IP: 192.168.1.12, Query: SELECT * FROM customers WHERE city='delivered'
+2025-02-26 10:04:06 [INFO] User: admin, IP: 192.168.1.7, Query: SELECT * FROM users WHERE username='admin' AND password='password123'
+2025-02-26 10:03:05 [INFO] User: alice, IP: 192.168.1.7, Query: INSERT INTO logs (event, user) VALUES ('login', 'New York')
+2025-02-26 10:02:09 [INFO] User: alice, IP: 192.168.1.5, Query: SELECT * FROM users WHERE username='alice' AND password='password123'
+2025-02-26 10:01:02 [INFO] User: alice, IP: 192.168.1.5, Query: INSERT INTO logs (event, user) VALUES ('login', 'Los Angeles')
+2025-02-26 10:00:55 [INFO] User: admin, IP: 192.168.1.7, Query: SELECT * FROM customers WHERE city='delivered'
+2025-02-26 10:01:40 [INFO] User: admin, IP: 192.168.1.10, Query: SELECT * FROM products WHERE category='canceled'
+2025-02-26 10:04:06 [INFO] User: bob, IP: 192.168.1.7, Query: SELECT * FROM orders WHERE status='electronics'
+2025-02-26 10:04:01 [INFO] User: alice, IP: 192.168.1.12, Query: SELECT * FROM orders WHERE status='Los Angeles'
+2025-02-26 10:03:10 [INFO] User: bob, IP: 192.168.1.7, Query: SELECT * FROM products WHERE category='delivered'
+2025-02-26 10:04:03 [INFO] User: johndoe, IP: 192.168.1.5, Query: SELECT * FROM users WHERE username='johndoe' AND password='password123'
+2025-02-26 10:02:32 [INFO] User: admin, IP: 192.168.1.7, Query: INSERT INTO logs (event, user) VALUES ('login', 'admin')
+2025-02-26 10:04:02 [INFO] User: alice, IP: 192.168.1.5, Query: SELECT * FROM customers WHERE city='alice'
+2025-02-26 10:03:34 [INFO] User: admin, IP: 192.168.1.12, Query: SELECT * FROM customers WHERE city='shipped'
+2025-02-26 10:02:19 [INFO] User: alice, IP: 192.168.1.10, Query: SELECT * FROM customers WHERE city='electronics'
